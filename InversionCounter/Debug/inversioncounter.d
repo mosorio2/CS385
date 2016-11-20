@@ -1,0 +1,1 @@
+inversioncounter.d: ../inversioncounter.cpp

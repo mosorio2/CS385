@@ -1,0 +1,1 @@
+student.d: ../student.cpp

@@ -1,0 +1,1 @@
+waterjugpuzzle.d: ../waterjugpuzzle.cpp

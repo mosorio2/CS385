@@ -1,0 +1,1 @@
+sieve.d: ../sieve.cpp
